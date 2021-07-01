@@ -1,0 +1,4 @@
+﻿  SequenceDiagramOpdracht.cpp
+C:\Users\jason\source\repos\SequenceDiagramOpdracht\SequenceDiagramOpdracht\SequenceDiagramOpdracht.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\jason\source\repos\SequenceDiagramOpdracht\SequenceDiagramOpdracht\SequenceDiagramOpdracht.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  SequenceDiagramOpdracht.vcxproj -> C:\Users\jason\source\repos\SequenceDiagramOpdracht\Debug\SequenceDiagramOpdracht.exe
